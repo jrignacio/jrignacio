@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🔭 I’m currently connecting the dots at [@digitx](https://github.com/digitx)
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - 📫 How to reach me: [@jrignacio](https://twitter.com/messages/compose?recipient_id=3969051&text=Hello%20from%20@github)
 - 😄 Pronouns: he/him
 
