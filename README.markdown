@@ -1,9 +1,9 @@
 ### Hello world 👋
 
-- 🔭 I’m currently connecting the dots at [@digitx](https://github.com/digitx)
+- 🔭 I’m currently connecting the dots at [@adsparkph](https://github.com/adsparkph)
 - 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - 📫 How to reach me: [@jrignacio](https://twitter.com/messages/compose?recipient_id=3969051&text=Hello%20from%20@github)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/siya
 
 <!--
 **jrignacio/jrignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
